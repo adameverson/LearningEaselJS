@@ -1,2 +1,2 @@
 # LearningEaselJS
-Learning EaselJS library applications in HTML5 with Canvas
+Learning EaselJS library applications in HTML5 on Canvas
